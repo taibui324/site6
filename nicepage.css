@@ -36526,7 +36526,6 @@ a.u-link.u-text-hover-grey-90:hover {
 /*end-variables sitestylecss*/
  .u-header {
   background-image: none;
-  min-height: 100px;
 }
 
 .u-header .u-image-1 {
@@ -36568,6 +36567,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 991px) {
   .u-header .u-menu-1 {
+    margin-top: 20px;
     margin-right: auto;
     margin-left: calc(((100% - 720px) / 2) + -18px);
   }
@@ -36579,13 +36579,17 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
    .u-header {
-    min-height: 105px;
+    min-height: 120px;
+  }
+
+  .u-header .u-image-1 {
+    margin-top: 10px;
+    margin-left: calc(((100% - 340px) / 2));
   }
 
   .u-header .u-menu-1 {
     width: auto;
-    margin-right: calc(((100% - 340px) / 2));
-    margin-left: auto;
+    margin: -69px calc(((100% - 340px) / 2)) 33px auto;
   }
 }
 .u-footer .u-sheet-1 {
