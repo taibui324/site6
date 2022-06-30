@@ -813,8 +813,8 @@
 }
 
 .u-section-1-4 .u-image-1 {
-  min-height: 465px;
-  background-image: url("images/MaskGroup19-39.png");
+  min-height: 500px;
+  background-image: url("images/dog.png");
   background-position: 50% 50%;
 }
 
@@ -881,7 +881,7 @@
   }
 
   .u-section-1-4 .u-image-1 {
-    min-height: 506px;
+    min-height: 800px;
   }
 
   .u-section-1-4 .u-container-layout-2 {
@@ -979,7 +979,7 @@
   }
 
   .u-section-1-4 .u-btn-1 {
-    margin-top: -57px;
+    margin-top: -70px;
     margin-right: 31px;
   }
 
@@ -988,7 +988,7 @@
   }
 
   .u-section-1-4 .u-image-1 {
-    min-height: 334px;
+    min-height: 504px;
   }
 } .u-section-2 {
   background-image: linear-gradient(white, white);
